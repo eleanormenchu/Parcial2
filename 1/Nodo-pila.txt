@@ -1,0 +1,14 @@
+package ejerciciouno;
+
+
+public class NodoPila {
+    char dato;
+    NodoPila;
+
+    public NodoPila(char dato) {
+        this.dato = dato; 
+        siguiente = null;
+    }
+    
+    
+}
